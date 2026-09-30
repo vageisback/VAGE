@@ -2,11 +2,7 @@
 
 # LINKS!
 
-https://s3.us-east-1.amazonaws.com/bullproxy/index.html (bullsproxy)
-
-http://apstat.s3.us-east-1.amazonaws.com/index.html (Aether)
-
-http://storage.googleapis.com/arctic-games/arctic.html (Arctic)
+https://aetherk12.s3.amazonaws.com/index.html (Aether)
 
 http://s3.amazonaws.com/scholarnook/index.html (Serum)
 
@@ -14,13 +10,14 @@ Storage.googleapis.com/mathlessons/duckmath.svg (duckmath [EVERY IMAGE BUGGED BU
 
 s3.amazonaws.com/cherri-s3-test/index.html (Cherri)
 
-# WEBSITES FOR THE PROXYS
-
-https://6ab424f57d63c.site123.me/ (cloud gaming)
-
 https://sigma-os1.base44.app (OS)
 
 Staryv2.base44.app (Shows & Movies)
+
+
+# WEBSITES FOR THE PROXYS
+
+https://6ab424f57d63c.site123.me/ (cloud gaming)
 
 # ALTERNATIVE LINKS TO THE CLOUD GAMING
 
