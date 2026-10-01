@@ -33,15 +33,20 @@ http://s3.amazonaws.com/writevc/index.html (fern)
 
 padlet.com/Mantern/cellar-9r2aOpoacw2ct8gg (blog)
 
+https://bestwork.b-cdn.net/ (cloud gaming)
+
+http://autismawareness.b-cdn.net/?sort=popul (lgbt)
+
+http://Lgbtgiaplus.b-cdn.net (lgbt too)
+
+nexusverse.base44.app (idk)
+
+gorillatagnew.base44.app (im sorry✌️💔)
+
+lemontowerdefense.base44.app (Roblox ripoff)
 # WEBSITES FOR THE PROXYS
 
 https://6ab424f57d63c.site123.me/ (cloud gaming)
-
-# ALTERNATIVE LINKS TO THE CLOUD GAMING
-
-https://Obviouslymathwork.b-cdn.net
-
-https://bestwork.b-cdn.net/
 
 # ⚠️Non-tested and likely blocked links🚨
 
@@ -81,4 +86,8 @@ https://storage.googleapis.com/chubbyverity/index.html
 
 major update! also aether has been acting weird and was not working, if it doesn’t work according to the owner which I speaked to she/he said “all of our backends are blocked or press crtl shift r”. if aether doesn’t work use bull-33.
 
+
+# NEXT MAJOR UPDATE
+
+apps
 # hop off happy wheels
