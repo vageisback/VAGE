@@ -41,6 +41,12 @@ http://Lgbtgiaplus.b-cdn.net (lgbt too)
 
 ixleducation.s3.amazonaws.com/index.html (games site)
 
+S3.amazonaws.com/zoxh/index.html (Tung Tung
+
+S3.amazonaws.com/utopiaweb/index.html (utopia)
+
+S3.amazonaws.com/lgbq/index.html (kite)
+
 # WEBSITES FOR THE PROXYS
 
 https://6ab424f57d63c.site123.me/ (cloud gaming)
@@ -52,6 +58,12 @@ https://cdn.staticdelivr.com/gh/username9927282/Toby-Web/main/index.svg
 https://noc.allisons.org/
 
 http://research.writing.blog.it123.net
+
+strobe.pisi.cat
+
+tungtutoring.cfd
+
+cdn.jsdelivr.net/gh/un-pkg/npm@main/bundle-min.svg
 
 # What is VAGE and what does it do?
 
