@@ -41,8 +41,6 @@ http://Lgbtgiaplus.b-cdn.net (lgbt too)
 
 nexusverse.base44.app (idk)
 
-gorillatagnew.base44.app (im sorry✌️💔)
-
 lemontowerdefense.base44.app (Roblox ripoff)
 # WEBSITES FOR THE PROXYS
 
