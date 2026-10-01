@@ -39,9 +39,8 @@ http://autismawareness.b-cdn.net/?sort=popul (lgbt)
 
 http://Lgbtgiaplus.b-cdn.net (lgbt too)
 
-nexusverse.base44.app (idk)
+ixleducation.s3.amazonaws.com/index.html (games site)
 
-lemontowerdefense.base44.app (Roblox ripoff)
 # WEBSITES FOR THE PROXYS
 
 https://6ab424f57d63c.site123.me/ (cloud gaming)
