@@ -2,7 +2,7 @@
 
 # LINKS!
 
-https://satguide.s3.us-east-1.amazonaws.com/study.html
+https://satguide.s3.amazonaws.com/index.html
 (Aether)
 
 http://s3.amazonaws.com/scholarnook/index.html (Serum)
