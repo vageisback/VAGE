@@ -65,6 +65,14 @@ tungtutoring.cfd
 
 cdn.jsdelivr.net/gh/un-pkg/npm@main/bundle-min.svg
 
+bpschools.supportatyourschool.co.uk
+
+solaraos.iyb.ca
+
+school.treyal.ru
+
+jzuns.brucehickey.com
+
 # What is VAGE and what does it do?
 
 VAGE is a list of links and I made it for people to easily get access to unblocked links! When VAGE finds links it commonly gets it from discord and other platforms. It also talks with owners of unblocked links to get it. Before you say some random proxy “mogs” VAGE remember VAGE is a LIST of unblocked links and not a PROXY it self. EST SEPT 26
