@@ -126,6 +126,28 @@ apps
 
 
 
+<img width="736" height="736" alt="5963a487d4cb5dde088fe4f45890e584" src="https://github.com/user-attachments/assets/891f4c0f-b188-459f-9e05-8417b657a5bc" />
+
+
+
+
+
+
+<img width="736" height="592" alt="764c0c9ad0cbb48ff933f9470c13d8d0" src="https://github.com/user-attachments/assets/cc9e0412-6ef5-42f7-ba14-b3d48cd57c48" />
+
+
+
+
+
+
+
+<img width="426" height="385" alt="ee3ddbf499cda4a8c9506eedc845adf3" src="https://github.com/user-attachments/assets/565d15f9-14c5-4ee3-8f31-d97c9fb7cd4e" />
+
+
+
+
+
+
 
 
 
