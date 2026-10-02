@@ -1,3 +1,4 @@
+<img width="336" height="595" alt="images" src="https://github.com/user-attachments/assets/61c85588-1b1c-4da6-acbb-49537eaae78b" />
 # VAGE - WE ARE BACK!
 
 
@@ -116,4 +117,4 @@ apps
 # hop off happy wheels
 
 
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)]() https://youtu.be/cIbCxbrBCys?is=SAZ3OIAVvrhBSgQa
+
