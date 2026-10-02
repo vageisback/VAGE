@@ -114,3 +114,6 @@ major update! also aether has been acting weird and was not working, if it doesn
 
 apps
 # hop off happy wheels
+
+
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)]() https://youtu.be/cIbCxbrBCys?is=SAZ3OIAVvrhBSgQa
