@@ -6,6 +6,9 @@
 https://vagehd.base44.app
 
 
+
+[I CANT UPDATE THE OFFICIAL WEBSITE DUE TO HAVING TO WAIT 26 DAYS TO GO BACK CODING IT AGAIN💀]
+
 # LINKS!
 
 https://schoolcdn.s3-fips.us-east-1.amazonaws.com/index.html
