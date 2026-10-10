@@ -58,7 +58,7 @@ S3.amazonaws.com/lgbq/index.html (kite)
 
 # WEBSITES FOR THE PROXYS
 
-https://6ab424f57d63c.site123.me/ (cloud gaming)
+ixlisfun-b.cdn (cloud gaming)
 
 # ⚠️Non-tested and likely blocked links🚨
 
