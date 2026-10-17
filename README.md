@@ -3,9 +3,11 @@
 # VAGE - WE ARE BACK!
 
 
-# VAGE OFFICIAL WEBSITE
+# VAGE OFFICIAL WEBSITES
 
 https://vagehd.base44.app
+
+https://padlet.com/Vagehd/vage-unblocked-links-s024lpezt3gub3zqs4b0
 
 <img width="3464" height="2038" alt="8FBA66E4-26DA-41E2-80A1-0F5B509EFD53" src="https://github.com/user-attachments/assets/002954d7-8e29-43e5-afa5-d8dd6064e8f2" />>
 
