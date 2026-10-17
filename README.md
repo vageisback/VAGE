@@ -11,14 +11,10 @@ https://vagehd.base44.app
 
 # LINKS!
 
-https://schoolcdn.s3-fips.us-east-1.amazonaws.com/index.html
-(Aether)
 
-http://s3.amazonaws.com/scholarnook/index.html (Serum)
 
 Storage.googleapis.com/mathlessons/duckmath.svg (duckmath [EVERY IMAGE BUGGED BUT THE GAMES WORK]
 
-s3.amazonaws.com/cherri-s3-test/index.html (Cherri)
 
 https://sigma-os1.base44.app (OS)
 
@@ -32,7 +28,6 @@ http://news.rr.nihalnavath.com/?ref=rickrolled (Rick roll your friends)
 
 http://unpkg.com/alexrsworld@1.0.2/index.html (ps4 styled)
 
-http://s3.us-east-1.amazonaws.com/rahisbullsgoat/index.html (BULL-33)
 
 s3.amazonaws.com/iogameslists/index.html
 
@@ -55,6 +50,12 @@ S3.amazonaws.com/zoxh/index.html (Tung Tung
 S3.amazonaws.com/utopiaweb/index.html (utopia)
 
 S3.amazonaws.com/lgbq/index.html (kite)
+
+https://unpkg.com/valoq-math-work@1.0.17/index.html (unpkg)
+
+S3.amazonaws.com/sizese/index.html (lucide again)
+
+
 
 # WEBSITES FOR THE PROXYS
 
@@ -105,7 +106,24 @@ https://dogestudy.aether.samirchand.com.np/
 https://apchem.s3.us-east-1.amazonaws.com/index.html
 
 https://storage.googleapis.com/chubbyverity/index.html
+New S3 links (if index.html doesn't work use study.html)
 
+https://bedroque.s3.amazonaws.com/index.html
+
+https://s3.amazonaws.com/bedroque/index.html
+
+https://bedroque.s3.dualstack.us-east-1.amazonaws.com/index.html
+
+https://s3.dualstack.us-east-1.amazonaws.com/bedroque/index.html
+
+https://bedroque.s3.us-east-1.amazonaws.com/index.html
+
+https://s3.us-east-1.amazonaws.com/bedroque/index.html
+
+https://bedroque.s3-fips.us-east-1.amazonaws.com/index.html
+
+
+https://bedroque.s3-fips.dualstack.us-east-1.amazonaws.com/index.html
 
 
 # NEWS TODAY!
