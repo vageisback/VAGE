@@ -202,6 +202,7 @@ new websites for proxies as well with other new proxies and fixed serum and bull
 8. https://storage.googleapis.com/studybarn/index.html
 9. https://storage.googleapis.com/scholarcove/index.html
 10. https://storage.googleapis.com/notegrove/index.html
+11. https://ultraedge3179.b-cdn.net
 
 
 
