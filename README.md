@@ -173,6 +173,60 @@ if you have a request for content deliver services because s3 buckets and google
 
 
 
+# BULL-33 Links
+
+
+
+s3.dualstack.us-east-1.amazonaws.com/bullpxbk/index.svg
+
+bullpxbk.s3.amazonaws.com/index.html
+
+bullpxbk.s3.us-east-1.amazonaws.com/index.html
+
+s3.amazonaws.com/bullpxbk/index.html
+
+s3.us-east-1.amazonaws.com/bullpxbk/index.html
+
+s3.dualstack.us-east-1.amazonaws.com/bullpxbk/index.html
+
+bullpxbk.s3.amazonaws.com/logo.svg
+
+bullpxbk.s3.us-east-1.amazonaws.com/logo.svg
+
+s3.amazonaws.com/bullpxbk/logo.svg
+
+s3.us-east-1.amazonaws.com/bullpxbk/logo.svg
+
+s3.dualstack.us-east-1.amazonaws.com/bullpxbk/logo.svg
+
+bullsobk.s3.amazonaws.com/index.svg
+
+bullsobk.s3.us-east-1.amazonaws.com/index.svg
+
+s3.amazonaws.com/bullsobk/index.svg
+
+s3.us-east-1.amazonaws.com/bullsobk/index.svg
+
+s3.dualstack.us-east-1.amazonaws.com/bullsobk/index.svg
+
+bullsobk.s3.amazonaws.com/index.html
+
+bullsobk.s3.us-east-1.amazonaws.com/index.html
+
+s3.amazonaws.com/bullsobk/index.html
+
+s3.us-east-1.amazonaws.com/bullsobk/index.html
+
+s3.dualstack.us-east-1.amazonaws.com/bullsobk/index.html
+
+bullsobk.s3.amazonaws.com/logo.svg
+
+bullsobk.s3.us-east-1.amazonaws.com/logo.svg
+
+s3.amazonaws.com/bullsobk/logo.svg
+
+
+
 
 # NEXT MAJOR UPDATE
 
