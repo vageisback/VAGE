@@ -195,9 +195,7 @@ new websites for proxies as well with other new proxies and fixed serum and bull
 9. https://storage.googleapis.com/scholarcove/index.html
 10. https://storage.googleapis.com/notegrove/index.html
 
-<@&1533513073246208241> 
 
-if you have a request for content deliver services because s3 buckets and google buckets are blocked for you (all links above) ping me in general and lmk what you would want added
 
 
 
