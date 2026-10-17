@@ -108,6 +108,8 @@ https://itzmarineya.github.io/SakuraOS-UBG/d850df9ky1diz.cloudfront.net
 
 ixlisfun-b.cdn (cloud gaming)
 
+gamehubub.com (Pc Games)
+
 # ⚠️Non-tested and likely blocked links🚨
 
 https://cdn.staticdelivr.com/gh/username9927282/Toby-Web/main/index.svg
