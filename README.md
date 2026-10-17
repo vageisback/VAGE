@@ -12,6 +12,8 @@ https://vagehd.base44.app
 # LINKS!
 
 
+https://s3.amazonaws.com/studynook/index.html (SerumOS)
+
 
 Storage.googleapis.com/mathlessons/duckmath.svg (duckmath [EVERY IMAGE BUGGED BUT THE GAMES WORK]
 
@@ -55,6 +57,12 @@ https://unpkg.com/valoq-math-work@1.0.17/index.html (unpkg)
 
 S3.amazonaws.com/sizese/index.html (lucide again)
 
+
+s3.amazonaws.com/kj0e/index.html (Study Hub)
+
+https://github.com/vageisback/sneaker (Sneaker Hub)
+
+s3.amazonaws.com/clevelearning/study (Opium)
 # Sakura Vault (more links coming soon)
 
 
