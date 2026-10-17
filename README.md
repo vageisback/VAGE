@@ -62,7 +62,16 @@ S3.amazonaws.com/lgbq/index.html (kite)
 
 https://unpkg.com/valoq-math-work@1.0.17/index.html (unpkg)
 
-S3.amazonaws.com/sizese/index.html (lucide again)
+S3.amazonaws.com/sizese/index.html (lucide)
+
+
+
+
+
+
+
+<img width="3464" height="2038" alt="A4777DEB-095C-4D44-8D65-87403B715470" src="https://github.com/user-attachments/assets/0b0699af-0235-4963-b4c6-9643dfe4e7af" />
+
 
 
 s3.amazonaws.com/kj0e/index.html (Study Hub)
