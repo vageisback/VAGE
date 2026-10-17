@@ -179,7 +179,7 @@ https://bedroque.s3-fips.dualstack.us-east-1.amazonaws.com/index.html
 
 # NEWS TODAY!
 
-major update! also aether has been acting weird and was not working, if it doesn’t work according to the owner which I speaked to she/he said “all of our backends are blocked or press crtl shift r”. if aether doesn’t work use bull-33.
+new websites for proxies as well with other new proxies and fixed serum and bull-33 and expanded the aether links.
 
 
 # Serum Links
