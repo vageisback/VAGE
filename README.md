@@ -55,6 +55,29 @@ https://unpkg.com/valoq-math-work@1.0.17/index.html (unpkg)
 
 S3.amazonaws.com/sizese/index.html (lucide again)
 
+# Sakura Vault (more links coming soon)
+
+
+https://sakuraos-ubg.vercel.app/
+
+https://sakuros.netlify.app/
+
+https://itzmarineya.github.io/SakuraOS-UBG/d850df9ky1diz.cloudfront.net
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="3464" height="2251" alt="8A145361-D023-4D97-AF34-328F8363BC0D" src="https://github.com/user-attachments/assets/3be2cb62-ee66-45b8-8ac4-7fa233e60e64" />
 
 
 # WEBSITES FOR THE PROXYS
