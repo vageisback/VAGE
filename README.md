@@ -1,9 +1,13 @@
+
+
 # VAGE - WE ARE BACK!
 
 
 # VAGE OFFICIAL WEBSITE
 
 https://vagehd.base44.app
+
+<img width="3464" height="2038" alt="8FBA66E4-26DA-41E2-80A1-0F5B509EFD53" src="https://github.com/user-attachments/assets/002954d7-8e29-43e5-afa5-d8dd6064e8f2" />>
 
 
 
@@ -14,6 +18,7 @@ https://vagehd.base44.app
 
 https://s3.amazonaws.com/studynook/index.html (SerumOS)
 
+<img width="3464" height="2038" alt="57EC6B39-943A-4839-8F79-6B9D8B9A7BFC" src="https://github.com/user-attachments/assets/52eb8f7d-25a1-47a1-8b38-cc76318d4d5b" />>
 
 Storage.googleapis.com/mathlessons/duckmath.svg (duckmath [EVERY IMAGE BUGGED BUT THE GAMES WORK]
 
