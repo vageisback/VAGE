@@ -110,6 +110,8 @@ ixlisfun-b.cdn (cloud gaming)
 
 gamehubub.com (Pc Games)
 
+igameinbrowser.weebly.com (Pc games but better UI)
+
 # ⚠️Non-tested and likely blocked links🚨
 
 https://cdn.staticdelivr.com/gh/username9927282/Toby-Web/main/index.svg
