@@ -113,6 +113,26 @@ https://storage.googleapis.com/chubbyverity/index.html
 major update! also aether has been acting weird and was not working, if it doesn’t work according to the owner which I speaked to she/he said “all of our backends are blocked or press crtl shift r”. if aether doesn’t work use bull-33.
 
 
+# Serum Links
+
+1. https://s3.amazonaws.com/scholarnook/index.html
+2. https://s3.amazonaws.com/studynook/index.html
+3. https://s3.amazonaws.com/classnook/index.html
+4. https://s3.amazonaws.com/deskloom/index.html
+5. https://s3.amazonaws.com/lessoncove/index.html
+6. https://storage.googleapis.com/scholarnook/index.html
+7. https://storage.googleapis.com/quietdesk/index.html
+8. https://storage.googleapis.com/studybarn/index.html
+9. https://storage.googleapis.com/scholarcove/index.html
+10. https://storage.googleapis.com/notegrove/index.html
+
+<@&1533513073246208241> 
+
+if you have a request for content deliver services because s3 buckets and google buckets are blocked for you (all links above) ping me in general and lmk what you would want added
+
+
+
+
 # NEXT MAJOR UPDATE
 
 apps
