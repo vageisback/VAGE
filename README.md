@@ -20,6 +20,8 @@ Storage.googleapis.com/mathlessons/duckmath.svg (duckmath [EVERY IMAGE BUGGED BU
 
 https://sigma-os1.base44.app (OS)
 
+https://algebralearning.b-cdn.net/ (T9)
+
 Staryv2.base44.app (Shows & Movies)
 
 vus.base44.app (less detailed but works)
