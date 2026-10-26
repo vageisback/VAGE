@@ -6,4 +6,5 @@ vage is coming back in feb 2027
 
 more information:
 
-h0mer.base44.app
+https://h0mer.base44.app
+
